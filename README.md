@@ -13,15 +13,8 @@ This repository currently contains the **frontend app**, built with **TypeScript
 - Acts as the **client** for:
   - Resume input / interaction  
   - Displaying AI responses / verification information  
-- Serves as the starting point for a full **AI + Blockchain resume verification platform**.
+- Serves as the starting point for a full **AI + Blockchain resume verification platform**
 
-> The repo was generated from `google-gemini/aistudio-repository-template`, then adapted for SkillChain. :contentReference[oaicite:1]{index=1}
-
----
-
-## 🧠 Vision / Concept
-
-SkillChain aims to:
 
 - Parse resumes using **NLP**  
 - Validate skills, projects, and experience using **AI models**  
@@ -43,7 +36,7 @@ The current repo is the **frontend foundation** for this system.
 - **Runtime**: Node.js (for local dev tooling)  
 - **AI Integration**: Gemini API (via `GEMINI_API_KEY`)  
 
-You can see from GitHub that the codebase is almost entirely **TypeScript + HTML**. :contentReference[oaicite:2]{index=2}  
+You can see from GitHub that the codebase is almost entirely **TypeScript + HTML**
 
 ---
 
